@@ -8,8 +8,8 @@
 * Collected data from Jira.
 * Cleaned data by various pre-processing techniques using Python, pandas.
 * Visualized data on some factors doing resampling using Matplotlib and Seaborn.
-* Tested time series data stationary by *ADF, Rolling statistic*, made stationary by differencing, transformation. 
-* Found p,q,d,s order by *PACF, ACF, Auto Arima*.
-* Built and trained models like *ARIMA, SARIMAX, LSTM* then forcasted. 
-* Evaluated model’s performance by R2 score, Adjusted R2 score, *rmse, mae*.
+* Tested time series data stationary by **ADF, Rolling statistic**, made stationary by **differencing, transformation**. 
+* Found p,q,d,s order by **PACF, ACF, Auto Arima**.
+* Built and trained models like **ARIMA, SARIMAX, LSTM** then forcasted. 
+* Evaluated model’s performance by **rmse, mae**.
 * Deployed the model performing best on cloud platform.
