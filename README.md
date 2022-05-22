@@ -1,7 +1,7 @@
 # TimeSeries_analysis_forcasting
 **Forecasting of count of ticket would be created next day/month by Time Series forecasting technique**-
 
-**Goal** - This project is about to forecast the count of tickets that may come in next month and day, based on the forecasted value, management can fix the number of manpower should be available, leave, vacation of team members be granted accordingly. That avoids shortage of manpower on peak time.
+**Goal** - This project is about to forecast the count of tickets that may come in next month and day, based on the forecasted value, management can fix the number of manpower should be available, leave, vacation of team members be granted accordingly. That **avoids shortage of manpower on peak time**.
 
 **Steps/Responsibilities**- 
 
